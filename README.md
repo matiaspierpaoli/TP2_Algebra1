@@ -1,0 +1,1 @@
+Nuevo repositorio que reemplaza el trabajo realizado durante la cursada de Algebra 1 en 2022. El proposito es no modificar el repositorio grupal : "https://github.com/Mauvemau/Algebra_TP2" en el cual el trabajo completo fue hecho con C++ raylib, y rehacerlo con Unity 2021.3.29f1
